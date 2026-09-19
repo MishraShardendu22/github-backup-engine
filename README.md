@@ -1,5 +1,15 @@
 # Enterprise GitHub Backup Observatory & Management Platform
 
+<div align="center">
+
+[![Maintenance: Actively Maintained](https://img.shields.io/badge/Maintenance-Actively%20Maintained-brightgreen.svg)](#maintenance-sla--support)
+[![CI Quality Gate](https://github.com/MishraShardendu22/github-backup-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/MishraShardendu22/github-backup-engine/actions)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Architecture: Distributed Systems](https://img.shields.io/badge/Architecture-Distributed%20Systems-00ADD8?logo=go)](#conceptual-architecture)
+[![Frontend: Next.js 16](https://img.shields.io/badge/Frontend-Next.js%2016-black?logo=next.js)](#what-it-does)
+
+</div>
+
 > [!IMPORTANT]
 > **PROPRIETARY & CLOSED-SOURCE SOFTWARE**
 > This repository is a public product showcase and high-level architectural specification. The underlying codebase, microservices, container images, and AI agent observatory engines are strictly **closed source and proprietary**, owned by **Shardendu Mishra**.
@@ -57,6 +67,16 @@ Engineered for mission-critical software engineering organizations, the platform
 
 ---
 
+## Maintenance, SLA & Support
+
+- **Active Maintenance**: Specifications, container topologies, and API definitions are monitored and updated on a regular schedule.
+- **Automated Quality CI**: Every commit triggers automated verification gates validating specification compliance.
+- **Enterprise SLA**: 24/7 dedicated support and maintenance windows for enterprise licensees.
+
+Review [SECURITY.md](SECURITY.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for vulnerability management policies.
+
+---
+
 ## Commercial Licensing & Inquiries
 
 Access to the proprietary source code, container images, and deployment runbooks is restricted to authorized partners and clients under signed commercial agreement.
@@ -64,11 +84,11 @@ Access to the proprietary source code, container images, and deployment runbooks
 - **Author & Copyright Holder**: Shardendu Mishra
 - **Email**: mishrashardendu22@gmail.com
 - **Website**: [mishrashardendu22.is-a.dev](https://mishrashardendu22.is-a.dev)
-- **Profile**: [@MishraShardendu22](https://github.com/MishraShardendu22)
+- **GitHub Profile**: [@MishraShardendu22](https://github.com/MishraShardendu22)
 
 ---
 
 ## License
 
 Copyright &copy; 2026 Shardendu Mishra. All Rights Reserved.
-Proprietary and closed-source software.
+This project is proprietary and closed-source software. See [LICENSE](LICENSE) for full terms.
